@@ -1,3 +1,4 @@
+/* Hide content but keep accessible for screen readers */
 .visuallyhidden { 
   position: absolute; 
   overflow: hidden; 
